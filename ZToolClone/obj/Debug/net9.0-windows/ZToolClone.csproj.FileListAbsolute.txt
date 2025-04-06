@@ -1,0 +1,5 @@
+E:\Program_to_Install\Tool\Tool\ZToolClone\obj\Debug\net9.0-windows\ZToolClone.GeneratedMSBuildEditorConfig.editorconfig
+E:\Program_to_Install\Tool\Tool\ZToolClone\obj\Debug\net9.0-windows\ZToolClone.AssemblyInfoInputs.cache
+E:\Program_to_Install\Tool\Tool\ZToolClone\obj\Debug\net9.0-windows\ZToolClone.AssemblyInfo.cs
+E:\Program_to_Install\Tool\Tool\ZToolClone\obj\Debug\net9.0-windows\ZToolClone.csproj.CoreCompileInputs.cache
+E:\Program_to_Install\Tool\Tool\ZToolClone\obj\Debug\net9.0-windows\ZToolClone.sourcelink.json
