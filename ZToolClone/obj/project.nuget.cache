@@ -1,13 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "vWc9FbTCoUU=",
+  "dgSpecHash": "IP6AaPOBW5M=",
   "success": true,
-  "projectFilePath": "E:\\Program_to_Install\\Tool\\Test\\ZToolClone\\ZToolClone.csproj",
+  "projectFilePath": "E:\\Program_to_Install\\Tool\\Tool\\ZToolClone\\ZToolClone.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\trant\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
-    "C:\\Users\\trant\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.14\\microsoft.netcore.app.runtime.win-x64.8.0.14.nupkg.sha512",
-    "C:\\Users\\trant\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.14\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.14.nupkg.sha512",
-    "C:\\Users\\trant\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.14\\microsoft.aspnetcore.app.runtime.win-x64.8.0.14.nupkg.sha512"
+    "C:\\Users\\trant\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],
   "logs": []
 }

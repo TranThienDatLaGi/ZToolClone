@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Program_to_Install\\Tool\\Test\\ZToolClone\\ZToolClone.csproj": {}
+    "E:\\Program_to_Install\\Tool\\Tool\\ZToolClone\\ZToolClone.csproj": {}
   },
   "projects": {
-    "E:\\Program_to_Install\\Tool\\Test\\ZToolClone\\ZToolClone.csproj": {
+    "E:\\Program_to_Install\\Tool\\Tool\\ZToolClone\\ZToolClone.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Program_to_Install\\Tool\\Test\\ZToolClone\\ZToolClone.csproj",
+        "projectUniqueName": "E:\\Program_to_Install\\Tool\\Tool\\ZToolClone\\ZToolClone.csproj",
         "projectName": "ZToolClone",
-        "projectPath": "E:\\Program_to_Install\\Tool\\Test\\ZToolClone\\ZToolClone.csproj",
+        "projectPath": "E:\\Program_to_Install\\Tool\\Tool\\ZToolClone\\ZToolClone.csproj",
         "packagesPath": "C:\\Users\\trant\\.nuget\\packages\\",
-        "outputPath": "E:\\Program_to_Install\\Tool\\Test\\ZToolClone\\obj\\",
+        "outputPath": "E:\\Program_to_Install\\Tool\\Tool\\ZToolClone\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -67,20 +67,6 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.AspNetCore.App.Runtime.win-x64",
-              "version": "[8.0.14, 8.0.14]"
-            },
-            {
-              "name": "Microsoft.NETCore.App.Runtime.win-x64",
-              "version": "[8.0.14, 8.0.14]"
-            },
-            {
-              "name": "Microsoft.WindowsDesktop.App.Runtime.win-x64",
-              "version": "[8.0.14, 8.0.14]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
@@ -90,11 +76,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.202/PortableRuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "win-x64": {
-          "#import": []
         }
       }
     }
